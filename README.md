@@ -2,10 +2,8 @@
 
 ## Requirement:
 - linux machine de preference Parrrot 
-  ```
   [Lien de telechargement](https://www.parrotsec.org/download/,true))
  
-  ```
 - Creerun compte THM [sign up](https://tryhackme.com/signup,true))
 - Installer Openvpn dans Parrot 
    ```
