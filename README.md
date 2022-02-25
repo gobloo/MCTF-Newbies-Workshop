@@ -12,3 +12,7 @@
 	echo "deb http://as-repository.openvpn.net/as/debian bullseye main">/etc/apt/sources.list.d/openvpn-as-repo.list
 	apt update && apt -y install openvpn-as
    ```
+
+```
+Sinon c'est possible d'utiliser la machine de THM si vous ne pouvez pas telecharger Linux
+```
